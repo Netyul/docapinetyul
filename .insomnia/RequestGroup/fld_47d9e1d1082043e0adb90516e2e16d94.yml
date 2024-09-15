@@ -1,0 +1,10 @@
+_id: fld_47d9e1d1082043e0adb90516e2e16d94
+type: RequestGroup
+parentId: wrk_52d67da62639436aa68fc0c7449b62f7
+modified: 1726423389051
+created: 1726423389051
+name: store
+description: Access to Petstore orders
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1726423389051

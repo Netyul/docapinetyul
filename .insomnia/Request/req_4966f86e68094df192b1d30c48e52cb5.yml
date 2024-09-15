@@ -1,0 +1,23 @@
+_id: req_4966f86e68094df192b1d30c48e52cb5
+type: Request
+parentId: fld_cc29cb9e969347db97b0a75fd3b1432a
+modified: 1726424412594
+created: 1726424372259
+url: ""
+name: Get Team by Company
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1726424372259
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
